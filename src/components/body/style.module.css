@@ -1,0 +1,27 @@
+
+.row{
+  
+   width: 144em;
+  padding-top: 1em;
+}
+.row1{
+  
+    width: 144em;
+   
+ }
+ .card-body{
+    height: 23em;
+ }
+ .card-body img{
+   width: 70%;
+   height: 23em ;
+   margin: 0 12em;
+
+ }
+ .btn{
+    margin-block-end: 2em;
+    
+ }
+ 
+ 
+ 
